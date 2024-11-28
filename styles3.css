@@ -1,0 +1,31 @@
+.btn {
+    margin: 2px;
+    color: white;
+    border: none;
+    padding: 5px;
+}
+
+.btn-confirm {
+    background-color: lightseagreen;
+}
+
+.btn-exit {
+    background-color: orange;
+}
+
+.text {
+    background-color: rgba(80, 80, 79, 0.7);
+    padding: 20px 50px;
+    position: relative;
+}
+
+.favorite {
+    width: 250px;
+    background-color: white;
+    padding: 5px 15px 5px 15px;
+    box-shadow: 8px 8px 8px grey;
+    position: fixed;
+    left: 50%;
+    top: 50px;
+    transform: translate(-50%, -50%);
+}
